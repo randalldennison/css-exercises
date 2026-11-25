@@ -69,6 +69,7 @@ input {
 
 .footer{
   display: flex;
+  padding: 16px;
   justify-content: space-between;
   background-color: #eeeeee;
 }
